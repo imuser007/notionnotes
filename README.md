@@ -1,1 +1,2 @@
-# notionnotes
+# Hi!
+## Its my notion page.
